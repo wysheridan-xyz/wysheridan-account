@@ -11,7 +11,7 @@ or
 [B.reject](https://github.com/wysheridan-xyz/wysheridan-account/blob/main/B.reject)
 as examples. 
 
-The idea.md file is a markdown file. 
+The idea.md file is a [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) file. 
 * It is intended for expressing ideas one
 wants to convey to the public.
 * See
