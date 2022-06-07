@@ -4,8 +4,8 @@ Using [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshee
 
 ## Header
 
-* Ask a question
-* Make a statement
-* Resupond to another's question or statement.
+* Ask a question.
+* Make a statement.
+* Respond to another's question or statement.
 * Write a short article explaining an idea, opinion, or judgment.
 * Source and verify that a statment is factual.
