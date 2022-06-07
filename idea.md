@@ -6,5 +6,6 @@ Using [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshee
 
 * Ask a question
 * Make a statement
-* Resupond to anothers question or statement.
-* Write a short article explaining an idea.
+* Resupond to another's question or statement.
+* Write a short article explaining an idea, opinion, or judgment.
+* Source and verify that a statment is factual.
